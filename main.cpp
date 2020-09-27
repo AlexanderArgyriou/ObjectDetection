@@ -37,4 +37,4 @@ void ProcessModel(const hstring &IPath) noexcept
     MD->EvaluateModel();
 
     delete MD;
-}
+}   // ProcessModel
