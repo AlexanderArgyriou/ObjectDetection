@@ -7,3 +7,4 @@
 * Define the file path of your picture as a string object in main(), call the ProcessModel function, and .... voilà.
 * Fun Pictures for testing included.
 * Thumbs up to Microsfost AI Docs and SqueezeNet.
+* C++17 or C++20.
