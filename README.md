@@ -10,11 +10,9 @@
 * C++17 or C++20.
 
 # Update
-* URL: 
+* URL: https://drive.google.com/drive/folders/1NAIrIPILmOqWhMMrEYtD6xi_NTwDeA54?usp=sharing
 * Created, Designed and Deployed a GUI in Qt/C++ to control the Computer Vision Project Above.
 * The DeployedMLAppQtGui Folder, contains the deployed .exe with all libraries(tested on windows 10).
 * Contains the code for the GUI at ComputerVisionAndObjectDetection subfolder.
 * Contains the code for C++/WinRT AI/ML Computer Vision Project at ML_Object_Detection subfolder.
-
-# Video
 * The video contained, shows everything u need to handle and use the Project.
