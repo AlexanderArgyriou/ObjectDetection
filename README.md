@@ -10,6 +10,7 @@
 * C++17 or C++20.
 
 # Update
+* URL: 
 * Created, Designed and Deployed a GUI in Qt/C++ to control the Computer Vision Project Above.
 * The DeployedMLAppQtGui Folder, contains the deployed .exe with all libraries(tested on windows 10).
 * Contains the code for the GUI at ComputerVisionAndObjectDetection subfolder.
